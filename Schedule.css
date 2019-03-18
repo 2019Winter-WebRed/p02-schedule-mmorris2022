@@ -1,0 +1,24 @@
+/*
+* Maggie Morris
+* Due Date
+* Schedule
+*/
+
+/* THe universal selector */
+
+* {
+
+}
+
+
+
+body {
+font-family:Futura, Helvetica, Times New Roman; /* Fonts used */
+background-color: palevioletred
+
+}
+table, td, th {border:1px solid purple; }
+table {border-collapse: collapse;} /* The table isn't 3d anymore */
+thead { background-color: purple}/* color of just the head of the table */
+tbody {background-color: plum}/* color of just the body of the table */
+tfoot { background-color: mediumorchid}/* color of just the foot of the table */
